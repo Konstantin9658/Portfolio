@@ -68,7 +68,8 @@
   }
 
   &:hover,
-  &:focus-visible {
+  &:focus-visible,
+  &:active {
 
     .project__hidden-box {
       transition: $trans--300;
