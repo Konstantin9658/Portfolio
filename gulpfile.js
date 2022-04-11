@@ -103,8 +103,8 @@ gulp.task("copy", function () {
     "source/img/**",
     "source/js/**",
     "source/.htaccess",
-    // "source/favicon.ico",
-    // "source/icon.svg",
+    "source/favicon.ico",
+    "source/icon.svg",
     // "source/manifest.webmanifest"
     ], {
       base: "source"
