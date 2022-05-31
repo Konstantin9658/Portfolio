@@ -1,5 +1,5 @@
 {
-  "name": "Liga-A-start-template",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "Стартовый шаблон сборки Лиги А",
   "devDependencies": {
@@ -54,5 +54,8 @@
   "dependencies": {
     "del": "^4.1.1",
     "gift": "^0.10.2"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
   }
 }
